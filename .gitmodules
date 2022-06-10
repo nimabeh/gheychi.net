@@ -1,0 +1,3 @@
+[submodule "themes/origin-hugo-theme"]
+	path = themes/origin-hugo-theme
+	url = https://github.com/nimabeh/origin-hugo-theme

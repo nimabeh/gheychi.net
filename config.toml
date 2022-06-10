@@ -1,0 +1,54 @@
+baseURL = "https://example.com"
+title = "نشر قیچی"
+author = "نشر قیچی"
+copyright = " قیچی / هزارُچهارصدُیک "
+paginate = 10
+languageCode = "fa"
+DefaultContentLanguage = "fa"
+direction = "RTL"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "origin-hugo-theme"
+textFontFamily = "roozname"
+headingFontFamily = "roozname"
+
+[params]
+  description = ""
+  featured = false
+  cssonly = false
+
+
+  [params.socials]
+    facebook = ""
+    twitter = "www.twitter.com/30zerMbot"
+    instagram = "30zerm"
+    youtube = ""
+    github = "www.github.com/nimabeh/30zermbot"
+    gitlab = ""
+    linkedin = ""
+    slack = ""
+    stackoverflow = "30zerm"
+    medium= ""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "حمایت"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
