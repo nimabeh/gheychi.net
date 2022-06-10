@@ -28,7 +28,7 @@ headingFontFamily = "roozname"
     gitlab = ""
     linkedin = ""
     slack = ""
-    stackoverflow = "30zerm"
+    stackoverflow = "RSS"
     medium= ""
 
 [menu]
