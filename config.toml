@@ -3,6 +3,7 @@ title = "نشر قیچی"
 author = "نشر قیچی"
 copyright = " قیچی / هزارُچهارصدُیک "
 paginate = 10
+description = "پروژه ادبیات الکترونیک نشر قیچی"
 languageCode = "fa"
 DefaultContentLanguage = "fa"
 direction = "RTL"
@@ -19,9 +20,9 @@ headingFontFamily = "roozname"
 
 
   [params.socials]
-    facebook = ""
-    twitter = "www.twitter.com/30zerMbot"
-    instagram = "30zerm"
+    facebook = "www.facebook.com/gheychi.net"
+    twitter = "www.twitter.com/gheychi.net"
+    instagram = "ww.instagram.com/gheychi.net"
     youtube = ""
     github = "www.github.com/nimabeh/30zermbot"
     gitlab = ""
