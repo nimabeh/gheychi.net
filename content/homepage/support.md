@@ -1,6 +1,6 @@
 ---
 title: 'Work+'
 button: 'Our Work'
-weight: 1
+weight: 0
 ---
 
