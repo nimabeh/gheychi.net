@@ -27,7 +27,7 @@ aliases = ["migrate-from-jekyl"]
 
 امیدواریم استقبال و حمایت مخاطبان از این حرکتِ نوپا، مشوّقِ مضاعفی برای پیرایشِ باقیِ فصولِ کتابِ «اتّفاق جماهیر قیچی» و انتشار آن (به صورت الکترونیک و کاغذی) فراهم کند
 
-##  [لینک دریافت جزوه کتاب](https://drive.google.com/file/d/1ExxISXP61861SoOYCb3DvNGvgtC4EOTG/view?usp=sharing)
+##  [لینک دریافت جزوه کتاب](https://drive.google.com/file/d/17v7anelWlrBp_QE6paGPUvt7TZm5eqsQ/view?usp=sharing)
 
 
 
