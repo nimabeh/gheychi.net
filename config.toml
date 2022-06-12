@@ -20,7 +20,7 @@ headingFontFamily = "roozname"
 
 
   [params.socials]
-    facebook = "www.facebook.com/gheychi.net"
+    facebook = "gheychi.net"
     twitter = "www.twitter.com/gheychi.net"
     instagram = "ww.instagram.com/gheychi.net"
     youtube = ""
@@ -38,6 +38,7 @@ headingFontFamily = "roozname"
     name = "حمایت"
     url = "/about/"
     weight = 10
+
 
 [taxonomies]
   category = "categories"
