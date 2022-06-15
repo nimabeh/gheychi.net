@@ -20,11 +20,11 @@ headingFontFamily = "roozname"
 
 
   [params.socials]
-    facebook = "gheychi.net"
-    twitter = "www.twitter.com/gheychi.net"
-    instagram = "ww.instagram.com/gheychi.net"
+    facebook = "https://www.facebook.com/gheychi.net"
+    twitter = "https://www.twitter.com/gheychi.net"
+    instagram = "https://www.instagram.com/30zerm"
     youtube = ""
-    github = "www.github.com/nimabeh/30zermbot"
+    github = "https://www.github.com/nimabeh/30zermbot"
     gitlab = ""
     linkedin = ""
     slack = ""
