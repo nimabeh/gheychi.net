@@ -33,11 +33,25 @@ headingFontFamily = "roozname"
 
 [menu]
 
+
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'حمایت'
+  pre = "<i class='fa fa-heart'></i>"
+  url = "https://www.paypal.com/donate/?hosted_button_id=9TTEZWK4DGFNJ"
+  weight = -110
+[[menu.main]]
+  name = 'همکاری'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/about/'
+  weight = -120
   [[menu.main]]
-    identifier = "about"
-    name = "حمایت"
-    url = "/about/"
-    weight = 10
+  name = 'درباره'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/about/'
+  weight = -130
 
 
 [taxonomies]

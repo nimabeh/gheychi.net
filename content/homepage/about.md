@@ -1,19 +1,15 @@
-+++
-author = ""
-title = "درباره نشر قیچی"
-date = "2022-06-06"
-description = "«نشر قیچی» فضایی است برای تولید و عرضه‌ی محصولاتی در زمینه‌ی ادبیات."
+---
+title: 'درباره نشر قیچی'
+weight: 0
+---
+
 tags = [
-    "جنبش قیچی",
 
 
 ]
 categories = [
-    "جنبش قیچی",
     "درباره"
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 
 +++
 
@@ -41,6 +37,4 @@ aliases = ["migrate-from-jekyl"]
 نشر قیچی شبکه‌ای نوپاست که برای انتشار آثار و توسعه‌ی فعالیت‌های خود (از جمله ادامه‌ی فعالیت پروژه‌ی جنبش قیچی) به حمایت مخاطبان نیاز دارد.
 
 ##  [لینک حمایت از نشر قیچی](https://www.paypal.com/donate/?hosted_button_id=9TTEZWK4DGFNJ)
-
-
 
