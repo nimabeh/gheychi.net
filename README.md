@@ -1,2 +1,2 @@
 # gheychi.net
-this is the port for gheychi.net website using Hugo deploying on Netlify.
+this is the port for gheychi.net website using Hugo.
