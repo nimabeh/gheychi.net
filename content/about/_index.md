@@ -1,17 +1,9 @@
+
 ---
-title: 'درباره نشر قیچی'
-weight: 0
+title: درباره‌ی نشر قیچی
+url: /about/
+layout: page
 ---
-
-tags = [
-
-
-]
-categories = [
-    "درباره"
-]
-
-+++
 
 ## درباره‌ی نشر قیچی
 
