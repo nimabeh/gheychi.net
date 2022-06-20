@@ -21,8 +21,8 @@ headingFontFamily = "roozname"
 
   [params.socials]
     facebook = "https://www.facebook.com/gheychi.net"
-    twitter = "https://www.twitter.com/gheychi.net"
-    instagram = "https://www.instagram.com/30zerm"
+    twitter = "https://www.twitter.com/gheychinet"
+    instagram = "https://www.instagram.com/gheychinet"
     youtube = ""
     github = "https://www.github.com/nimabeh/30zermbot"
     gitlab = ""
@@ -42,16 +42,12 @@ headingFontFamily = "roozname"
   url = "https://www.paypal.com/donate/?hosted_button_id=9TTEZWK4DGFNJ"
   weight = -110
 [[menu.main]]
-  name = 'همکاری'
+  name = 'درباره'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/about/'
   weight = -120
-  [[menu.main]]
-  name = 'درباره'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/about/'
-  weight = -130
+
 
 
 [taxonomies]
