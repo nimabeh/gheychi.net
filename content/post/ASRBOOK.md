@@ -12,8 +12,7 @@ categories = [
     "اتّفاق جماهیر قیچی",
     "کتاب"
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+
 
 +++
 
