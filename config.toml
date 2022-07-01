@@ -28,7 +28,7 @@ headingFontFamily = "roozname"
     gitlab = ""
     linkedin = ""
     slack = ""
-    stackoverflow = "RSS"
+    stackoverflow = "https://www.gheychi.net/index.xml"
     medium= ""
 
 [menu]
