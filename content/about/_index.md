@@ -15,15 +15,14 @@ layout: page
 
 نشر قیچی از تألیفات، تصنیفات، و ترجمه‌های اهلِ فنّ از جمله در زمینه‌های زیر استقبال می‌کند:
 
-/ ادبیات الکترونیک، محاسباتی و تصادفی / Electronic, Computational, and Accidental Literature
+/ ادبیات الکترونیک و محاسباتی / Electronic and Computational Literature
 
 / تاریخِ تکنولوژی‌های نوشتن / History of Writing Technologies
 
 / اقتصادِ سیاسیِ ادبیات / Political Economy of Literature
 
-/ جادو، فرهنگ و ادبیات / Magic, Culture, and Literature
+/ جادو و ادبیات / Magic and Literature
 
-/ زبان، زمان و طبیعت / Language, Time, and Nature
 
 </br>
 
